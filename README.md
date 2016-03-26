@@ -1,5 +1,8 @@
-# Instructions to run treeSequenceSimulator.py
+#Tree Sequence Simulator
 
+I originally wrote this script for use in my missing data simulation study but decided on using Dendropy or other dependencies instead to utilize the built-in evolutionary models. 
+If it's already written and stable and it is not the focus of my work, why reinvent the wheel here? 
+However, it was good practice to better understand how these sorts of algorithms work.
 
 ## HOW TO RUN
 
@@ -11,7 +14,6 @@ name you would like to call the output file.
 
 If you do not specify a treefile or phylipfile, the default treefile is  
 treefile.tre and the default outputfile is phylipfile.txt
-
 
 
 HOW TO RUN the ReadWriteTree program 
