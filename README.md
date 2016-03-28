@@ -4,7 +4,7 @@ I originally wrote this script for use in my missing data simulation study but d
 If it's already written and stable and it is not the focus of my work, why reinvent the wheel here? 
 However, it was good practice to better understand how these sorts of algorithms work.
 
-## HOW TO RUNthe treeSequenceSimulator.py program
+## HOW TO RUN the treeSequenceSimulator.py program
 Type the name of the source file followed by the the name of the tree file you wish to run and the name you would like to call the output file.
 
 ```$python treeSequenceimulatorSimulator.py treefile outputfile```
